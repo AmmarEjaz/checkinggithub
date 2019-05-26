@@ -21,3 +21,5 @@ fetch(url).then(function(result){
     }
 })
 
+console.log('nothing');
+
